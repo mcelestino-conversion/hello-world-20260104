@@ -1,0 +1,13 @@
+{
+  "canon_version": "1.0",
+  "description": "{\"project\":{\"name\":\"hello world\",\"type\":\"web_app\",\"framework\":\"nextjs\",\"language\":\"typescript\"},\"description\":\"a simple one-page hello world website.\",\"features\":[],\"pages\":[\"home\"],\"styling\":{\"framework\":\"tailwind\"}}",
+  "project": {
+    "framework": "nextjs",
+    "language": "typescript",
+    "name": "hello world 20260104",
+    "type": "web_app"
+  },
+  "styling": {
+    "framework": "tailwind"
+  }
+}
